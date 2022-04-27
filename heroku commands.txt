@@ -1,0 +1,2 @@
+heroku git:remote -a akshayr-portfolio 
+git push heroku main:main
